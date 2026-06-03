@@ -18,7 +18,6 @@ pip install opencv-python numpy
 ## Usage
 1. Open a terminal and navigate to the project folder where the script resides:
 ```powershell
-
 ```
 2. Run the script:
 ```powershell
