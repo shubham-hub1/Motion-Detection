@@ -14,7 +14,6 @@ Make sure you have Python 3.8+ installed. Install the required packages:
 ```bash
 pip install opencv-python numpy
 ```
-
 ## Usage
 1. Open a terminal and navigate to the project folder where the script resides:
 ```powershell
